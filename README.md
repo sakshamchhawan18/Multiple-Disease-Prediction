@@ -1,4 +1,4 @@
-### ** README ** 📖✨
+### README  📖✨
 
 # 🩺 Multiple Disease Prediction System
 
@@ -67,9 +67,6 @@ This project includes three separate models to predict the following diseases:
    - Enter the relevant health metrics for the disease you want to predict.
    - The model will output a prediction indicating the likelihood of the disease.
 
-## 🌐 Web Application (Optional)
-
-If included, you can run the web application using Flask or Streamlit to get real-time predictions through a user-friendly interface.
 
 ## 📈 Data Sources
 
@@ -85,11 +82,4 @@ If included, you can run the web application using Flask or Streamlit to get rea
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
 
-## 🙌 Acknowledgments
-
-- Thanks to the open-source community for providing the datasets and tools used in this project.
-- Special thanks to the contributors who have made this project possible.
-
----
-
-🚀 **Start predicting now and help make early disease detection accessible to all!** 🩺
+🚀 **Start predicting now and help make early disease detection accessible to all!** 🙌 🩺
